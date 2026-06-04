@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar T</h1>
 
-<h3 align="center">B.Tech Information Technology Student | Software Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">B.Tech Information Technology Student</h3>
 
 <p align="center">
 Passionate about building software solutions, exploring machine learning, and solving real-world problems through technology.
